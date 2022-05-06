@@ -4,7 +4,7 @@
     "outDir": "dist",
     "sourceMap": true,
     "allowJs": true,
-    "noEmit": true,
+    "noEmit": false,
     "incremental": true,
     "esModuleInterop": true,
     "isolatedModules": true,
